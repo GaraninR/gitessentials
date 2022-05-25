@@ -6,4 +6,5 @@ void main(void) {
     printf("----");
     printf("main");
     printf("devel");
+    printf("devel");
 }
